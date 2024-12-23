@@ -1,6 +1,6 @@
 # NAME:RITHISH.R
 # REGNO:24900403
-# EXPERIMENT-7:JK_flipflop
+# EXPERIMENT-5:JK_flipflop
 
 # AIM: 
 
